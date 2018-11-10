@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\5 Find maximum and minimum temperature\5FindMaximumAndMinimumTemperature\5FindMaximumAndMinimumTemperature\bin\Debug\5FindMaximumAndMinimumTemperature.exe.config
+C:\Users\diem\source\repos\Programmr\5 Find maximum and minimum temperature\5FindMaximumAndMinimumTemperature\5FindMaximumAndMinimumTemperature\bin\Debug\5FindMaximumAndMinimumTemperature.exe
+C:\Users\diem\source\repos\Programmr\5 Find maximum and minimum temperature\5FindMaximumAndMinimumTemperature\5FindMaximumAndMinimumTemperature\bin\Debug\5FindMaximumAndMinimumTemperature.pdb
+C:\Users\diem\source\repos\Programmr\5 Find maximum and minimum temperature\5FindMaximumAndMinimumTemperature\5FindMaximumAndMinimumTemperature\obj\Debug\5FindMaximumAndMinimumTemperature.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\5 Find maximum and minimum temperature\5FindMaximumAndMinimumTemperature\5FindMaximumAndMinimumTemperature\obj\Debug\_5FindMaximumAndMinimumTemperature.Form1.resources
+C:\Users\diem\source\repos\Programmr\5 Find maximum and minimum temperature\5FindMaximumAndMinimumTemperature\5FindMaximumAndMinimumTemperature\obj\Debug\_5FindMaximumAndMinimumTemperature.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\5 Find maximum and minimum temperature\5FindMaximumAndMinimumTemperature\5FindMaximumAndMinimumTemperature\obj\Debug\5FindMaximumAndMinimumTemperature.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\5 Find maximum and minimum temperature\5FindMaximumAndMinimumTemperature\5FindMaximumAndMinimumTemperature\obj\Debug\5FindMaximumAndMinimumTemperature.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\5 Find maximum and minimum temperature\5FindMaximumAndMinimumTemperature\5FindMaximumAndMinimumTemperature\obj\Debug\5FindMaximumAndMinimumTemperature.exe
+C:\Users\diem\source\repos\Programmr\5 Find maximum and minimum temperature\5FindMaximumAndMinimumTemperature\5FindMaximumAndMinimumTemperature\obj\Debug\5FindMaximumAndMinimumTemperature.pdb
