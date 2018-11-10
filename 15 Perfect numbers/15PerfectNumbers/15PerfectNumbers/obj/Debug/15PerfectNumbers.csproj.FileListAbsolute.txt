@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\15 Perfect numbers\15PerfectNumbers\15PerfectNumbers\bin\Debug\15PerfectNumbers.exe.config
+C:\Users\diem\source\repos\Programmr\15 Perfect numbers\15PerfectNumbers\15PerfectNumbers\bin\Debug\15PerfectNumbers.exe
+C:\Users\diem\source\repos\Programmr\15 Perfect numbers\15PerfectNumbers\15PerfectNumbers\bin\Debug\15PerfectNumbers.pdb
+C:\Users\diem\source\repos\Programmr\15 Perfect numbers\15PerfectNumbers\15PerfectNumbers\obj\Debug\15PerfectNumbers.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\15 Perfect numbers\15PerfectNumbers\15PerfectNumbers\obj\Debug\_15PerfectNumbers.Form1.resources
+C:\Users\diem\source\repos\Programmr\15 Perfect numbers\15PerfectNumbers\15PerfectNumbers\obj\Debug\_15PerfectNumbers.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\15 Perfect numbers\15PerfectNumbers\15PerfectNumbers\obj\Debug\15PerfectNumbers.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\15 Perfect numbers\15PerfectNumbers\15PerfectNumbers\obj\Debug\15PerfectNumbers.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\15 Perfect numbers\15PerfectNumbers\15PerfectNumbers\obj\Debug\15PerfectNumbers.exe
+C:\Users\diem\source\repos\Programmr\15 Perfect numbers\15PerfectNumbers\15PerfectNumbers\obj\Debug\15PerfectNumbers.pdb
