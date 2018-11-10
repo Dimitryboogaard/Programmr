@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\4 Last samples of a number\4LastSamplesOfANumber\4LastSamplesOfANumber\bin\Debug\4LastSamplesOfANumber.exe.config
+C:\Users\diem\source\repos\Programmr\4 Last samples of a number\4LastSamplesOfANumber\4LastSamplesOfANumber\bin\Debug\4LastSamplesOfANumber.exe
+C:\Users\diem\source\repos\Programmr\4 Last samples of a number\4LastSamplesOfANumber\4LastSamplesOfANumber\bin\Debug\4LastSamplesOfANumber.pdb
+C:\Users\diem\source\repos\Programmr\4 Last samples of a number\4LastSamplesOfANumber\4LastSamplesOfANumber\obj\Debug\4LastSamplesOfANumber.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\4 Last samples of a number\4LastSamplesOfANumber\4LastSamplesOfANumber\obj\Debug\_4LastSamplesOfANumber.Form1.resources
+C:\Users\diem\source\repos\Programmr\4 Last samples of a number\4LastSamplesOfANumber\4LastSamplesOfANumber\obj\Debug\_4LastSamplesOfANumber.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\4 Last samples of a number\4LastSamplesOfANumber\4LastSamplesOfANumber\obj\Debug\4LastSamplesOfANumber.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\4 Last samples of a number\4LastSamplesOfANumber\4LastSamplesOfANumber\obj\Debug\4LastSamplesOfANumber.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\4 Last samples of a number\4LastSamplesOfANumber\4LastSamplesOfANumber\obj\Debug\4LastSamplesOfANumber.exe
+C:\Users\diem\source\repos\Programmr\4 Last samples of a number\4LastSamplesOfANumber\4LastSamplesOfANumber\obj\Debug\4LastSamplesOfANumber.pdb
