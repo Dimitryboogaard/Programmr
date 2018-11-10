@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\8 Print Rectangle\8PrintRectangle\8PrintRectangle\bin\Debug\8PrintRectangle.exe.config
+C:\Users\diem\source\repos\Programmr\8 Print Rectangle\8PrintRectangle\8PrintRectangle\bin\Debug\8PrintRectangle.exe
+C:\Users\diem\source\repos\Programmr\8 Print Rectangle\8PrintRectangle\8PrintRectangle\bin\Debug\8PrintRectangle.pdb
+C:\Users\diem\source\repos\Programmr\8 Print Rectangle\8PrintRectangle\8PrintRectangle\obj\Debug\8PrintRectangle.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\8 Print Rectangle\8PrintRectangle\8PrintRectangle\obj\Debug\_8PrintRectangle.Form1.resources
+C:\Users\diem\source\repos\Programmr\8 Print Rectangle\8PrintRectangle\8PrintRectangle\obj\Debug\_8PrintRectangle.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\8 Print Rectangle\8PrintRectangle\8PrintRectangle\obj\Debug\8PrintRectangle.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\8 Print Rectangle\8PrintRectangle\8PrintRectangle\obj\Debug\8PrintRectangle.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\8 Print Rectangle\8PrintRectangle\8PrintRectangle\obj\Debug\8PrintRectangle.exe
+C:\Users\diem\source\repos\Programmr\8 Print Rectangle\8PrintRectangle\8PrintRectangle\obj\Debug\8PrintRectangle.pdb
