@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\2 Number to string format\2Number to string format\2Number to string format\bin\Debug\2Number to string format.exe.config
+C:\Users\diem\source\repos\Programmr\2 Number to string format\2Number to string format\2Number to string format\bin\Debug\2Number to string format.exe
+C:\Users\diem\source\repos\Programmr\2 Number to string format\2Number to string format\2Number to string format\bin\Debug\2Number to string format.pdb
+C:\Users\diem\source\repos\Programmr\2 Number to string format\2Number to string format\2Number to string format\obj\Debug\2Number to string format.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\2 Number to string format\2Number to string format\2Number to string format\obj\Debug\_2Number_to_string_format.Form1.resources
+C:\Users\diem\source\repos\Programmr\2 Number to string format\2Number to string format\2Number to string format\obj\Debug\_2Number_to_string_format.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\2 Number to string format\2Number to string format\2Number to string format\obj\Debug\2Number to string format.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\2 Number to string format\2Number to string format\2Number to string format\obj\Debug\2Number to string format.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\2 Number to string format\2Number to string format\2Number to string format\obj\Debug\2Number to string format.exe
+C:\Users\diem\source\repos\Programmr\2 Number to string format\2Number to string format\2Number to string format\obj\Debug\2Number to string format.pdb
