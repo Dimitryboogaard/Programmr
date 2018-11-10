@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\19 Sexy pairs\19SexyPairs\19SexyPairs\obj\Debug\19SexyPairs.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\19 Sexy pairs\19SexyPairs\19SexyPairs\obj\Debug\_19SexyPairs.Form1.resources
+C:\Users\diem\source\repos\Programmr\19 Sexy pairs\19SexyPairs\19SexyPairs\obj\Debug\_19SexyPairs.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\19 Sexy pairs\19SexyPairs\19SexyPairs\obj\Debug\19SexyPairs.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\19 Sexy pairs\19SexyPairs\19SexyPairs\obj\Debug\19SexyPairs.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\19 Sexy pairs\19SexyPairs\19SexyPairs\bin\Debug\19SexyPairs.exe.config
+C:\Users\diem\source\repos\Programmr\19 Sexy pairs\19SexyPairs\19SexyPairs\bin\Debug\19SexyPairs.exe
+C:\Users\diem\source\repos\Programmr\19 Sexy pairs\19SexyPairs\19SexyPairs\bin\Debug\19SexyPairs.pdb
+C:\Users\diem\source\repos\Programmr\19 Sexy pairs\19SexyPairs\19SexyPairs\obj\Debug\19SexyPairs.exe
+C:\Users\diem\source\repos\Programmr\19 Sexy pairs\19SexyPairs\19SexyPairs\obj\Debug\19SexyPairs.pdb
