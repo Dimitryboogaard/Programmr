@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\14 Prime factors\14PrimeFactors\14PrimeFactors\bin\Debug\14PrimeFactors.exe.config
+C:\Users\diem\source\repos\Programmr\14 Prime factors\14PrimeFactors\14PrimeFactors\bin\Debug\14PrimeFactors.exe
+C:\Users\diem\source\repos\Programmr\14 Prime factors\14PrimeFactors\14PrimeFactors\bin\Debug\14PrimeFactors.pdb
+C:\Users\diem\source\repos\Programmr\14 Prime factors\14PrimeFactors\14PrimeFactors\obj\Debug\14PrimeFactors.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\14 Prime factors\14PrimeFactors\14PrimeFactors\obj\Debug\_14PrimeFactors.Form1.resources
+C:\Users\diem\source\repos\Programmr\14 Prime factors\14PrimeFactors\14PrimeFactors\obj\Debug\_14PrimeFactors.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\14 Prime factors\14PrimeFactors\14PrimeFactors\obj\Debug\14PrimeFactors.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\14 Prime factors\14PrimeFactors\14PrimeFactors\obj\Debug\14PrimeFactors.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\14 Prime factors\14PrimeFactors\14PrimeFactors\obj\Debug\14PrimeFactors.exe
+C:\Users\diem\source\repos\Programmr\14 Prime factors\14PrimeFactors\14PrimeFactors\obj\Debug\14PrimeFactors.pdb
