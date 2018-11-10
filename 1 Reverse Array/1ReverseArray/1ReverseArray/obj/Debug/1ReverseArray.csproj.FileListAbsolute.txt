@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\1 Reverse Array\1ReverseArray\1ReverseArray\bin\Debug\1ReverseArray.exe.config
+C:\Users\diem\source\repos\Programmr\1 Reverse Array\1ReverseArray\1ReverseArray\bin\Debug\1ReverseArray.exe
+C:\Users\diem\source\repos\Programmr\1 Reverse Array\1ReverseArray\1ReverseArray\bin\Debug\1ReverseArray.pdb
+C:\Users\diem\source\repos\Programmr\1 Reverse Array\1ReverseArray\1ReverseArray\obj\Debug\1ReverseArray.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\1 Reverse Array\1ReverseArray\1ReverseArray\obj\Debug\_1ReverseArray.Form1.resources
+C:\Users\diem\source\repos\Programmr\1 Reverse Array\1ReverseArray\1ReverseArray\obj\Debug\_1ReverseArray.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\1 Reverse Array\1ReverseArray\1ReverseArray\obj\Debug\1ReverseArray.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\1 Reverse Array\1ReverseArray\1ReverseArray\obj\Debug\1ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\1 Reverse Array\1ReverseArray\1ReverseArray\obj\Debug\1ReverseArray.exe
+C:\Users\diem\source\repos\Programmr\1 Reverse Array\1ReverseArray\1ReverseArray\obj\Debug\1ReverseArray.pdb
