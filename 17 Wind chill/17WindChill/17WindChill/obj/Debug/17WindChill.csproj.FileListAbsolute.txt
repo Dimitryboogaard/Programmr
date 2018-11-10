@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\17 Wind chill\17WindChill\17WindChill\bin\Debug\17WindChill.exe.config
+C:\Users\diem\source\repos\Programmr\17 Wind chill\17WindChill\17WindChill\bin\Debug\17WindChill.exe
+C:\Users\diem\source\repos\Programmr\17 Wind chill\17WindChill\17WindChill\bin\Debug\17WindChill.pdb
+C:\Users\diem\source\repos\Programmr\17 Wind chill\17WindChill\17WindChill\obj\Debug\_17WindChill.Form1.resources
+C:\Users\diem\source\repos\Programmr\17 Wind chill\17WindChill\17WindChill\obj\Debug\_17WindChill.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\17 Wind chill\17WindChill\17WindChill\obj\Debug\17WindChill.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\17 Wind chill\17WindChill\17WindChill\obj\Debug\17WindChill.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\17 Wind chill\17WindChill\17WindChill\obj\Debug\17WindChill.exe
+C:\Users\diem\source\repos\Programmr\17 Wind chill\17WindChill\17WindChill\obj\Debug\17WindChill.pdb
+C:\Users\diem\source\repos\Programmr\17 Wind chill\17WindChill\17WindChill\obj\Debug\17WindChill.csprojAssemblyReference.cache
