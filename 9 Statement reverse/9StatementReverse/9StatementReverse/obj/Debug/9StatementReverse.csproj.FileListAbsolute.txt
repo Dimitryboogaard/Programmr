@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\9 Statement reverse\9StatementReverse\9StatementReverse\bin\Debug\9StatementReverse.exe.config
+C:\Users\diem\source\repos\Programmr\9 Statement reverse\9StatementReverse\9StatementReverse\bin\Debug\9StatementReverse.exe
+C:\Users\diem\source\repos\Programmr\9 Statement reverse\9StatementReverse\9StatementReverse\bin\Debug\9StatementReverse.pdb
+C:\Users\diem\source\repos\Programmr\9 Statement reverse\9StatementReverse\9StatementReverse\obj\Debug\9StatementReverse.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\9 Statement reverse\9StatementReverse\9StatementReverse\obj\Debug\_9StatementReverse.Form1.resources
+C:\Users\diem\source\repos\Programmr\9 Statement reverse\9StatementReverse\9StatementReverse\obj\Debug\_9StatementReverse.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\9 Statement reverse\9StatementReverse\9StatementReverse\obj\Debug\9StatementReverse.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\9 Statement reverse\9StatementReverse\9StatementReverse\obj\Debug\9StatementReverse.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\9 Statement reverse\9StatementReverse\9StatementReverse\obj\Debug\9StatementReverse.exe
+C:\Users\diem\source\repos\Programmr\9 Statement reverse\9StatementReverse\9StatementReverse\obj\Debug\9StatementReverse.pdb
