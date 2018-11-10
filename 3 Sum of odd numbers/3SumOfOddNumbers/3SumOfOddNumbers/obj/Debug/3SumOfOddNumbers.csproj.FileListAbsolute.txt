@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\3 Sum of odd numbers\3SumOfOddNumbers\3SumOfOddNumbers\bin\Debug\3SumOfOddNumbers.exe.config
+C:\Users\diem\source\repos\Programmr\3 Sum of odd numbers\3SumOfOddNumbers\3SumOfOddNumbers\bin\Debug\3SumOfOddNumbers.exe
+C:\Users\diem\source\repos\Programmr\3 Sum of odd numbers\3SumOfOddNumbers\3SumOfOddNumbers\bin\Debug\3SumOfOddNumbers.pdb
+C:\Users\diem\source\repos\Programmr\3 Sum of odd numbers\3SumOfOddNumbers\3SumOfOddNumbers\obj\Debug\3SumOfOddNumbers.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\3 Sum of odd numbers\3SumOfOddNumbers\3SumOfOddNumbers\obj\Debug\_3SumOfOddNumbers.Form1.resources
+C:\Users\diem\source\repos\Programmr\3 Sum of odd numbers\3SumOfOddNumbers\3SumOfOddNumbers\obj\Debug\_3SumOfOddNumbers.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\3 Sum of odd numbers\3SumOfOddNumbers\3SumOfOddNumbers\obj\Debug\3SumOfOddNumbers.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\3 Sum of odd numbers\3SumOfOddNumbers\3SumOfOddNumbers\obj\Debug\3SumOfOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\3 Sum of odd numbers\3SumOfOddNumbers\3SumOfOddNumbers\obj\Debug\3SumOfOddNumbers.exe
+C:\Users\diem\source\repos\Programmr\3 Sum of odd numbers\3SumOfOddNumbers\3SumOfOddNumbers\obj\Debug\3SumOfOddNumbers.pdb
