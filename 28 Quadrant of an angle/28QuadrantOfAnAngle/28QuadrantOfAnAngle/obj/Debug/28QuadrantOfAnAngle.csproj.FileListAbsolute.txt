@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\28 Quadrant of an angle\28QuadrantOfAnAngle\28QuadrantOfAnAngle\bin\Debug\28QuadrantOfAnAngle.exe.config
+C:\Users\diem\source\repos\Programmr\28 Quadrant of an angle\28QuadrantOfAnAngle\28QuadrantOfAnAngle\bin\Debug\28QuadrantOfAnAngle.exe
+C:\Users\diem\source\repos\Programmr\28 Quadrant of an angle\28QuadrantOfAnAngle\28QuadrantOfAnAngle\bin\Debug\28QuadrantOfAnAngle.pdb
+C:\Users\diem\source\repos\Programmr\28 Quadrant of an angle\28QuadrantOfAnAngle\28QuadrantOfAnAngle\obj\Debug\28QuadrantOfAnAngle.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\28 Quadrant of an angle\28QuadrantOfAnAngle\28QuadrantOfAnAngle\obj\Debug\_28QuadrantOfAnAngle.Form1.resources
+C:\Users\diem\source\repos\Programmr\28 Quadrant of an angle\28QuadrantOfAnAngle\28QuadrantOfAnAngle\obj\Debug\_28QuadrantOfAnAngle.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\28 Quadrant of an angle\28QuadrantOfAnAngle\28QuadrantOfAnAngle\obj\Debug\28QuadrantOfAnAngle.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\28 Quadrant of an angle\28QuadrantOfAnAngle\28QuadrantOfAnAngle\obj\Debug\28QuadrantOfAnAngle.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\28 Quadrant of an angle\28QuadrantOfAnAngle\28QuadrantOfAnAngle\obj\Debug\28QuadrantOfAnAngle.exe
+C:\Users\diem\source\repos\Programmr\28 Quadrant of an angle\28QuadrantOfAnAngle\28QuadrantOfAnAngle\obj\Debug\28QuadrantOfAnAngle.pdb
