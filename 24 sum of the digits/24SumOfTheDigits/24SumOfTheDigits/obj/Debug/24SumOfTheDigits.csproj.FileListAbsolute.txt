@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\24 sum of the digits\24SumOfTheDigits\24SumOfTheDigits\bin\Debug\24SumOfTheDigits.exe.config
+C:\Users\diem\source\repos\Programmr\24 sum of the digits\24SumOfTheDigits\24SumOfTheDigits\bin\Debug\24SumOfTheDigits.exe
+C:\Users\diem\source\repos\Programmr\24 sum of the digits\24SumOfTheDigits\24SumOfTheDigits\bin\Debug\24SumOfTheDigits.pdb
+C:\Users\diem\source\repos\Programmr\24 sum of the digits\24SumOfTheDigits\24SumOfTheDigits\obj\Debug\24SumOfTheDigits.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\24 sum of the digits\24SumOfTheDigits\24SumOfTheDigits\obj\Debug\_24SumOfTheDigits.Form1.resources
+C:\Users\diem\source\repos\Programmr\24 sum of the digits\24SumOfTheDigits\24SumOfTheDigits\obj\Debug\_24SumOfTheDigits.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\24 sum of the digits\24SumOfTheDigits\24SumOfTheDigits\obj\Debug\24SumOfTheDigits.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\24 sum of the digits\24SumOfTheDigits\24SumOfTheDigits\obj\Debug\24SumOfTheDigits.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\24 sum of the digits\24SumOfTheDigits\24SumOfTheDigits\obj\Debug\24SumOfTheDigits.exe
+C:\Users\diem\source\repos\Programmr\24 sum of the digits\24SumOfTheDigits\24SumOfTheDigits\obj\Debug\24SumOfTheDigits.pdb
