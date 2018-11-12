@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\25 Matrix multiplication\25MatrixMultiplication\25MatrixMultiplication\bin\Debug\25MatrixMultiplication.exe.config
+C:\Users\diem\source\repos\Programmr\25 Matrix multiplication\25MatrixMultiplication\25MatrixMultiplication\bin\Debug\25MatrixMultiplication.exe
+C:\Users\diem\source\repos\Programmr\25 Matrix multiplication\25MatrixMultiplication\25MatrixMultiplication\bin\Debug\25MatrixMultiplication.pdb
+C:\Users\diem\source\repos\Programmr\25 Matrix multiplication\25MatrixMultiplication\25MatrixMultiplication\obj\Debug\25MatrixMultiplication.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\25 Matrix multiplication\25MatrixMultiplication\25MatrixMultiplication\obj\Debug\_25MatrixMultiplication.Form1.resources
+C:\Users\diem\source\repos\Programmr\25 Matrix multiplication\25MatrixMultiplication\25MatrixMultiplication\obj\Debug\_25MatrixMultiplication.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\25 Matrix multiplication\25MatrixMultiplication\25MatrixMultiplication\obj\Debug\25MatrixMultiplication.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\25 Matrix multiplication\25MatrixMultiplication\25MatrixMultiplication\obj\Debug\25MatrixMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\25 Matrix multiplication\25MatrixMultiplication\25MatrixMultiplication\obj\Debug\25MatrixMultiplication.exe
+C:\Users\diem\source\repos\Programmr\25 Matrix multiplication\25MatrixMultiplication\25MatrixMultiplication\obj\Debug\25MatrixMultiplication.pdb

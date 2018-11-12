@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25MatrixMultiplication", "25MatrixMultiplication\25MatrixMultiplication.csproj", "{2BAE497E-367D-42D7-A6AA-4474CA2C5DCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BAE497E-367D-42D7-A6AA-4474CA2C5DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BAE497E-367D-42D7-A6AA-4474CA2C5DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BAE497E-367D-42D7-A6AA-4474CA2C5DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BAE497E-367D-42D7-A6AA-4474CA2C5DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4845778C-06B9-45A8-AC56-E7314076EB9F}
+	EndGlobalSection
+EndGlobal
