@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\26 Number sequence\26NumberSequence\26NumberSequence\bin\Debug\26NumberSequence.exe.config
+C:\Users\diem\source\repos\Programmr\26 Number sequence\26NumberSequence\26NumberSequence\bin\Debug\26NumberSequence.exe
+C:\Users\diem\source\repos\Programmr\26 Number sequence\26NumberSequence\26NumberSequence\bin\Debug\26NumberSequence.pdb
+C:\Users\diem\source\repos\Programmr\26 Number sequence\26NumberSequence\26NumberSequence\obj\Debug\26NumberSequence.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\26 Number sequence\26NumberSequence\26NumberSequence\obj\Debug\_26NumberSequence.Form1.resources
+C:\Users\diem\source\repos\Programmr\26 Number sequence\26NumberSequence\26NumberSequence\obj\Debug\_26NumberSequence.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\26 Number sequence\26NumberSequence\26NumberSequence\obj\Debug\26NumberSequence.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\26 Number sequence\26NumberSequence\26NumberSequence\obj\Debug\26NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\26 Number sequence\26NumberSequence\26NumberSequence\obj\Debug\26NumberSequence.exe
+C:\Users\diem\source\repos\Programmr\26 Number sequence\26NumberSequence\26NumberSequence\obj\Debug\26NumberSequence.pdb
