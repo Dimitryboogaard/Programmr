@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\21 Capitalization\21Capitalization\21Capitalization\bin\Debug\21Capitalization.exe.config
+C:\Users\diem\source\repos\Programmr\21 Capitalization\21Capitalization\21Capitalization\bin\Debug\21Capitalization.exe
+C:\Users\diem\source\repos\Programmr\21 Capitalization\21Capitalization\21Capitalization\bin\Debug\21Capitalization.pdb
+C:\Users\diem\source\repos\Programmr\21 Capitalization\21Capitalization\21Capitalization\obj\Debug\21Capitalization.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\21 Capitalization\21Capitalization\21Capitalization\obj\Debug\_21Capitalization.Form1.resources
+C:\Users\diem\source\repos\Programmr\21 Capitalization\21Capitalization\21Capitalization\obj\Debug\_21Capitalization.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\21 Capitalization\21Capitalization\21Capitalization\obj\Debug\21Capitalization.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\21 Capitalization\21Capitalization\21Capitalization\obj\Debug\21Capitalization.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\21 Capitalization\21Capitalization\21Capitalization\obj\Debug\21Capitalization.exe
+C:\Users\diem\source\repos\Programmr\21 Capitalization\21Capitalization\21Capitalization\obj\Debug\21Capitalization.pdb
