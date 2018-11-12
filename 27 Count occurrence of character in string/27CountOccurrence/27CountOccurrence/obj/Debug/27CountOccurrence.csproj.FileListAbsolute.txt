@@ -1,0 +1,9 @@
+C:\Users\diem\source\repos\Programmr\27 Count occurrence of character in string\27CountOccurrence\27CountOccurrence\obj\Debug\_27CountOccurrence.Form1.resources
+C:\Users\diem\source\repos\Programmr\27 Count occurrence of character in string\27CountOccurrence\27CountOccurrence\obj\Debug\_27CountOccurrence.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\27 Count occurrence of character in string\27CountOccurrence\27CountOccurrence\obj\Debug\27CountOccurrence.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\27 Count occurrence of character in string\27CountOccurrence\27CountOccurrence\obj\Debug\27CountOccurrence.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\27 Count occurrence of character in string\27CountOccurrence\27CountOccurrence\bin\Debug\27CountOccurrence.exe.config
+C:\Users\diem\source\repos\Programmr\27 Count occurrence of character in string\27CountOccurrence\27CountOccurrence\bin\Debug\27CountOccurrence.exe
+C:\Users\diem\source\repos\Programmr\27 Count occurrence of character in string\27CountOccurrence\27CountOccurrence\bin\Debug\27CountOccurrence.pdb
+C:\Users\diem\source\repos\Programmr\27 Count occurrence of character in string\27CountOccurrence\27CountOccurrence\obj\Debug\27CountOccurrence.exe
+C:\Users\diem\source\repos\Programmr\27 Count occurrence of character in string\27CountOccurrence\27CountOccurrence\obj\Debug\27CountOccurrence.pdb
