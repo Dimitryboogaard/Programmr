@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\57 Word reverse\57WordReverse\57WordReverse\bin\Debug\57WordReverse.exe.config
+C:\Users\diem\source\repos\Programmr\57 Word reverse\57WordReverse\57WordReverse\bin\Debug\57WordReverse.exe
+C:\Users\diem\source\repos\Programmr\57 Word reverse\57WordReverse\57WordReverse\bin\Debug\57WordReverse.pdb
+C:\Users\diem\source\repos\Programmr\57 Word reverse\57WordReverse\57WordReverse\obj\Debug\57WordReverse.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\57 Word reverse\57WordReverse\57WordReverse\obj\Debug\_57WordReverse.Form1.resources
+C:\Users\diem\source\repos\Programmr\57 Word reverse\57WordReverse\57WordReverse\obj\Debug\_57WordReverse.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\57 Word reverse\57WordReverse\57WordReverse\obj\Debug\57WordReverse.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\57 Word reverse\57WordReverse\57WordReverse\obj\Debug\57WordReverse.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\57 Word reverse\57WordReverse\57WordReverse\obj\Debug\57WordReverse.exe
+C:\Users\diem\source\repos\Programmr\57 Word reverse\57WordReverse\57WordReverse\obj\Debug\57WordReverse.pdb
