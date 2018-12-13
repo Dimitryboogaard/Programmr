@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\65 Palindrom string\65PalindromString\65PalindromString\bin\Debug\65PalindromString.exe.config
+C:\Users\diem\source\repos\Programmr\65 Palindrom string\65PalindromString\65PalindromString\bin\Debug\65PalindromString.exe
+C:\Users\diem\source\repos\Programmr\65 Palindrom string\65PalindromString\65PalindromString\bin\Debug\65PalindromString.pdb
+C:\Users\diem\source\repos\Programmr\65 Palindrom string\65PalindromString\65PalindromString\obj\Debug\65PalindromString.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\65 Palindrom string\65PalindromString\65PalindromString\obj\Debug\_65PalindromString.Form1.resources
+C:\Users\diem\source\repos\Programmr\65 Palindrom string\65PalindromString\65PalindromString\obj\Debug\_65PalindromString.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\65 Palindrom string\65PalindromString\65PalindromString\obj\Debug\65PalindromString.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\65 Palindrom string\65PalindromString\65PalindromString\obj\Debug\65PalindromString.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\65 Palindrom string\65PalindromString\65PalindromString\obj\Debug\65PalindromString.exe
+C:\Users\diem\source\repos\Programmr\65 Palindrom string\65PalindromString\65PalindromString\obj\Debug\65PalindromString.pdb
