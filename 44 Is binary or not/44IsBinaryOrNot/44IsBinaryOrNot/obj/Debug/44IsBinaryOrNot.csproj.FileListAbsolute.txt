@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\44 Is binary or not\44IsBinaryOrNot\44IsBinaryOrNot\bin\Debug\44IsBinaryOrNot.exe.config
+C:\Users\diem\source\repos\Programmr\44 Is binary or not\44IsBinaryOrNot\44IsBinaryOrNot\bin\Debug\44IsBinaryOrNot.exe
+C:\Users\diem\source\repos\Programmr\44 Is binary or not\44IsBinaryOrNot\44IsBinaryOrNot\bin\Debug\44IsBinaryOrNot.pdb
+C:\Users\diem\source\repos\Programmr\44 Is binary or not\44IsBinaryOrNot\44IsBinaryOrNot\obj\Debug\44IsBinaryOrNot.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\44 Is binary or not\44IsBinaryOrNot\44IsBinaryOrNot\obj\Debug\_44IsBinaryOrNot.Form1.resources
+C:\Users\diem\source\repos\Programmr\44 Is binary or not\44IsBinaryOrNot\44IsBinaryOrNot\obj\Debug\_44IsBinaryOrNot.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\44 Is binary or not\44IsBinaryOrNot\44IsBinaryOrNot\obj\Debug\44IsBinaryOrNot.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\44 Is binary or not\44IsBinaryOrNot\44IsBinaryOrNot\obj\Debug\44IsBinaryOrNot.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\44 Is binary or not\44IsBinaryOrNot\44IsBinaryOrNot\obj\Debug\44IsBinaryOrNot.exe
+C:\Users\diem\source\repos\Programmr\44 Is binary or not\44IsBinaryOrNot\44IsBinaryOrNot\obj\Debug\44IsBinaryOrNot.pdb
