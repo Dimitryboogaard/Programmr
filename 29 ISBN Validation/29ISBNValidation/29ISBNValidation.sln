@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29ISBNValidation", "29ISBNValidation\29ISBNValidation.csproj", "{6CEFC8A7-2CCC-4557-B295-6E4633838356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CEFC8A7-2CCC-4557-B295-6E4633838356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CEFC8A7-2CCC-4557-B295-6E4633838356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CEFC8A7-2CCC-4557-B295-6E4633838356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CEFC8A7-2CCC-4557-B295-6E4633838356}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2DC58FD-8D1E-4595-B4F9-190846CE0EEC}
+	EndGlobalSection
+EndGlobal

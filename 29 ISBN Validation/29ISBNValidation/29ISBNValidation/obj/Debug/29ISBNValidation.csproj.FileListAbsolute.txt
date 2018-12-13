@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\29 ISBN Validation\29ISBNValidation\29ISBNValidation\bin\Debug\29ISBNValidation.exe.config
+C:\Users\diem\source\repos\Programmr\29 ISBN Validation\29ISBNValidation\29ISBNValidation\bin\Debug\29ISBNValidation.exe
+C:\Users\diem\source\repos\Programmr\29 ISBN Validation\29ISBNValidation\29ISBNValidation\bin\Debug\29ISBNValidation.pdb
+C:\Users\diem\source\repos\Programmr\29 ISBN Validation\29ISBNValidation\29ISBNValidation\obj\Debug\29ISBNValidation.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\29 ISBN Validation\29ISBNValidation\29ISBNValidation\obj\Debug\_29ISBNValidation.Form1.resources
+C:\Users\diem\source\repos\Programmr\29 ISBN Validation\29ISBNValidation\29ISBNValidation\obj\Debug\_29ISBNValidation.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\29 ISBN Validation\29ISBNValidation\29ISBNValidation\obj\Debug\29ISBNValidation.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\29 ISBN Validation\29ISBNValidation\29ISBNValidation\obj\Debug\29ISBNValidation.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\29 ISBN Validation\29ISBNValidation\29ISBNValidation\obj\Debug\29ISBNValidation.exe
+C:\Users\diem\source\repos\Programmr\29 ISBN Validation\29ISBNValidation\29ISBNValidation\obj\Debug\29ISBNValidation.pdb
