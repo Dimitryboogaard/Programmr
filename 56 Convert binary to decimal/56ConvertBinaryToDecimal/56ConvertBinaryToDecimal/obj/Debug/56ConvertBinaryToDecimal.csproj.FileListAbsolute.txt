@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\56 Convert binary to decimal\56ConvertBinaryToDecimal\56ConvertBinaryToDecimal\bin\Debug\56ConvertBinaryToDecimal.exe.config
+C:\Users\diem\source\repos\Programmr\56 Convert binary to decimal\56ConvertBinaryToDecimal\56ConvertBinaryToDecimal\bin\Debug\56ConvertBinaryToDecimal.exe
+C:\Users\diem\source\repos\Programmr\56 Convert binary to decimal\56ConvertBinaryToDecimal\56ConvertBinaryToDecimal\bin\Debug\56ConvertBinaryToDecimal.pdb
+C:\Users\diem\source\repos\Programmr\56 Convert binary to decimal\56ConvertBinaryToDecimal\56ConvertBinaryToDecimal\obj\Debug\56ConvertBinaryToDecimal.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\56 Convert binary to decimal\56ConvertBinaryToDecimal\56ConvertBinaryToDecimal\obj\Debug\_56ConvertBinaryToDecimal.Form1.resources
+C:\Users\diem\source\repos\Programmr\56 Convert binary to decimal\56ConvertBinaryToDecimal\56ConvertBinaryToDecimal\obj\Debug\_56ConvertBinaryToDecimal.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\56 Convert binary to decimal\56ConvertBinaryToDecimal\56ConvertBinaryToDecimal\obj\Debug\56ConvertBinaryToDecimal.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\56 Convert binary to decimal\56ConvertBinaryToDecimal\56ConvertBinaryToDecimal\obj\Debug\56ConvertBinaryToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\56 Convert binary to decimal\56ConvertBinaryToDecimal\56ConvertBinaryToDecimal\obj\Debug\56ConvertBinaryToDecimal.exe
+C:\Users\diem\source\repos\Programmr\56 Convert binary to decimal\56ConvertBinaryToDecimal\56ConvertBinaryToDecimal\obj\Debug\56ConvertBinaryToDecimal.pdb
