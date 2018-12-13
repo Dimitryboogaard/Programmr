@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\54 Collatz sequence\54CollatzSequence\54CollatzSequence\bin\Debug\54CollatzSequence.exe.config
+C:\Users\diem\source\repos\Programmr\54 Collatz sequence\54CollatzSequence\54CollatzSequence\bin\Debug\54CollatzSequence.exe
+C:\Users\diem\source\repos\Programmr\54 Collatz sequence\54CollatzSequence\54CollatzSequence\bin\Debug\54CollatzSequence.pdb
+C:\Users\diem\source\repos\Programmr\54 Collatz sequence\54CollatzSequence\54CollatzSequence\obj\Debug\54CollatzSequence.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\54 Collatz sequence\54CollatzSequence\54CollatzSequence\obj\Debug\_54CollatzSequence.Form1.resources
+C:\Users\diem\source\repos\Programmr\54 Collatz sequence\54CollatzSequence\54CollatzSequence\obj\Debug\_54CollatzSequence.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\54 Collatz sequence\54CollatzSequence\54CollatzSequence\obj\Debug\54CollatzSequence.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\54 Collatz sequence\54CollatzSequence\54CollatzSequence\obj\Debug\54CollatzSequence.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\54 Collatz sequence\54CollatzSequence\54CollatzSequence\obj\Debug\54CollatzSequence.exe
+C:\Users\diem\source\repos\Programmr\54 Collatz sequence\54CollatzSequence\54CollatzSequence\obj\Debug\54CollatzSequence.pdb
