@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\35 String sort\35StringSort\35StringSort\bin\Debug\35StringSort.exe.config
+C:\Users\diem\source\repos\Programmr\35 String sort\35StringSort\35StringSort\bin\Debug\35StringSort.exe
+C:\Users\diem\source\repos\Programmr\35 String sort\35StringSort\35StringSort\bin\Debug\35StringSort.pdb
+C:\Users\diem\source\repos\Programmr\35 String sort\35StringSort\35StringSort\obj\Debug\35StringSort.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\35 String sort\35StringSort\35StringSort\obj\Debug\_35StringSort.Form1.resources
+C:\Users\diem\source\repos\Programmr\35 String sort\35StringSort\35StringSort\obj\Debug\_35StringSort.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\35 String sort\35StringSort\35StringSort\obj\Debug\35StringSort.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\35 String sort\35StringSort\35StringSort\obj\Debug\35StringSort.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\35 String sort\35StringSort\35StringSort\obj\Debug\35StringSort.exe
+C:\Users\diem\source\repos\Programmr\35 String sort\35StringSort\35StringSort\obj\Debug\35StringSort.pdb
