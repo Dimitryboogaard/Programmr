@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\47 Remove character\47RemoveCharacter\47RemoveCharacter\bin\Debug\47RemoveCharacter.exe.config
+C:\Users\diem\source\repos\Programmr\47 Remove character\47RemoveCharacter\47RemoveCharacter\bin\Debug\47RemoveCharacter.exe
+C:\Users\diem\source\repos\Programmr\47 Remove character\47RemoveCharacter\47RemoveCharacter\bin\Debug\47RemoveCharacter.pdb
+C:\Users\diem\source\repos\Programmr\47 Remove character\47RemoveCharacter\47RemoveCharacter\obj\Debug\47RemoveCharacter.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\47 Remove character\47RemoveCharacter\47RemoveCharacter\obj\Debug\_47RemoveCharacter.Form1.resources
+C:\Users\diem\source\repos\Programmr\47 Remove character\47RemoveCharacter\47RemoveCharacter\obj\Debug\_47RemoveCharacter.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\47 Remove character\47RemoveCharacter\47RemoveCharacter\obj\Debug\47RemoveCharacter.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\47 Remove character\47RemoveCharacter\47RemoveCharacter\obj\Debug\47RemoveCharacter.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\47 Remove character\47RemoveCharacter\47RemoveCharacter\obj\Debug\47RemoveCharacter.exe
+C:\Users\diem\source\repos\Programmr\47 Remove character\47RemoveCharacter\47RemoveCharacter\obj\Debug\47RemoveCharacter.pdb
