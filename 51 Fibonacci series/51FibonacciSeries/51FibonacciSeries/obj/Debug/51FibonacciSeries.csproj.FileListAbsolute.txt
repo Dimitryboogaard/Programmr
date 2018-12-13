@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\51 Fibonacci series\51FibonacciSeries\51FibonacciSeries\bin\Debug\51FibonacciSeries.exe.config
+C:\Users\diem\source\repos\Programmr\51 Fibonacci series\51FibonacciSeries\51FibonacciSeries\bin\Debug\51FibonacciSeries.exe
+C:\Users\diem\source\repos\Programmr\51 Fibonacci series\51FibonacciSeries\51FibonacciSeries\bin\Debug\51FibonacciSeries.pdb
+C:\Users\diem\source\repos\Programmr\51 Fibonacci series\51FibonacciSeries\51FibonacciSeries\obj\Debug\51FibonacciSeries.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\51 Fibonacci series\51FibonacciSeries\51FibonacciSeries\obj\Debug\_51FibonacciSeries.Form1.resources
+C:\Users\diem\source\repos\Programmr\51 Fibonacci series\51FibonacciSeries\51FibonacciSeries\obj\Debug\_51FibonacciSeries.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\51 Fibonacci series\51FibonacciSeries\51FibonacciSeries\obj\Debug\51FibonacciSeries.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\51 Fibonacci series\51FibonacciSeries\51FibonacciSeries\obj\Debug\51FibonacciSeries.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\51 Fibonacci series\51FibonacciSeries\51FibonacciSeries\obj\Debug\51FibonacciSeries.exe
+C:\Users\diem\source\repos\Programmr\51 Fibonacci series\51FibonacciSeries\51FibonacciSeries\obj\Debug\51FibonacciSeries.pdb
