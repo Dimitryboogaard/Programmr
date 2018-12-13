@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\40 Factorial of a given number\40FactorialOfAGivenNumber\40FactorialOfAGivenNumber\bin\Debug\40FactorialOfAGivenNumber.exe.config
+C:\Users\diem\source\repos\Programmr\40 Factorial of a given number\40FactorialOfAGivenNumber\40FactorialOfAGivenNumber\bin\Debug\40FactorialOfAGivenNumber.exe
+C:\Users\diem\source\repos\Programmr\40 Factorial of a given number\40FactorialOfAGivenNumber\40FactorialOfAGivenNumber\bin\Debug\40FactorialOfAGivenNumber.pdb
+C:\Users\diem\source\repos\Programmr\40 Factorial of a given number\40FactorialOfAGivenNumber\40FactorialOfAGivenNumber\obj\Debug\40FactorialOfAGivenNumber.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\40 Factorial of a given number\40FactorialOfAGivenNumber\40FactorialOfAGivenNumber\obj\Debug\_40FactorialOfAGivenNumber.Form1.resources
+C:\Users\diem\source\repos\Programmr\40 Factorial of a given number\40FactorialOfAGivenNumber\40FactorialOfAGivenNumber\obj\Debug\_40FactorialOfAGivenNumber.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\40 Factorial of a given number\40FactorialOfAGivenNumber\40FactorialOfAGivenNumber\obj\Debug\40FactorialOfAGivenNumber.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\40 Factorial of a given number\40FactorialOfAGivenNumber\40FactorialOfAGivenNumber\obj\Debug\40FactorialOfAGivenNumber.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\40 Factorial of a given number\40FactorialOfAGivenNumber\40FactorialOfAGivenNumber\obj\Debug\40FactorialOfAGivenNumber.exe
+C:\Users\diem\source\repos\Programmr\40 Factorial of a given number\40FactorialOfAGivenNumber\40FactorialOfAGivenNumber\obj\Debug\40FactorialOfAGivenNumber.pdb
