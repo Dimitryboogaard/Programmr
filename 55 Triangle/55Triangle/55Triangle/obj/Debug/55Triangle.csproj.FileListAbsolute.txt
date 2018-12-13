@@ -1,0 +1,9 @@
+C:\Users\diem\source\repos\Programmr\55 Triangle\55Triangle\55Triangle\bin\Debug\55Triangle.exe.config
+C:\Users\diem\source\repos\Programmr\55 Triangle\55Triangle\55Triangle\bin\Debug\55Triangle.exe
+C:\Users\diem\source\repos\Programmr\55 Triangle\55Triangle\55Triangle\bin\Debug\55Triangle.pdb
+C:\Users\diem\source\repos\Programmr\55 Triangle\55Triangle\55Triangle\obj\Debug\_55Triangle.Form1.resources
+C:\Users\diem\source\repos\Programmr\55 Triangle\55Triangle\55Triangle\obj\Debug\_55Triangle.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\55 Triangle\55Triangle\55Triangle\obj\Debug\55Triangle.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\55 Triangle\55Triangle\55Triangle\obj\Debug\55Triangle.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\55 Triangle\55Triangle\55Triangle\obj\Debug\55Triangle.exe
+C:\Users\diem\source\repos\Programmr\55 Triangle\55Triangle\55Triangle\obj\Debug\55Triangle.pdb
