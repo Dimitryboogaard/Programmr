@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\59 Sum of odd naturals\59SumOfOddNaturals\59SumOfOddNaturals\bin\Debug\59SumOfOddNaturals.exe.config
+C:\Users\diem\source\repos\Programmr\59 Sum of odd naturals\59SumOfOddNaturals\59SumOfOddNaturals\bin\Debug\59SumOfOddNaturals.exe
+C:\Users\diem\source\repos\Programmr\59 Sum of odd naturals\59SumOfOddNaturals\59SumOfOddNaturals\bin\Debug\59SumOfOddNaturals.pdb
+C:\Users\diem\source\repos\Programmr\59 Sum of odd naturals\59SumOfOddNaturals\59SumOfOddNaturals\obj\Debug\59SumOfOddNaturals.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\59 Sum of odd naturals\59SumOfOddNaturals\59SumOfOddNaturals\obj\Debug\_59SumOfOddNaturals.Form1.resources
+C:\Users\diem\source\repos\Programmr\59 Sum of odd naturals\59SumOfOddNaturals\59SumOfOddNaturals\obj\Debug\_59SumOfOddNaturals.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\59 Sum of odd naturals\59SumOfOddNaturals\59SumOfOddNaturals\obj\Debug\59SumOfOddNaturals.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\59 Sum of odd naturals\59SumOfOddNaturals\59SumOfOddNaturals\obj\Debug\59SumOfOddNaturals.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\59 Sum of odd naturals\59SumOfOddNaturals\59SumOfOddNaturals\obj\Debug\59SumOfOddNaturals.exe
+C:\Users\diem\source\repos\Programmr\59 Sum of odd naturals\59SumOfOddNaturals\59SumOfOddNaturals\obj\Debug\59SumOfOddNaturals.pdb
