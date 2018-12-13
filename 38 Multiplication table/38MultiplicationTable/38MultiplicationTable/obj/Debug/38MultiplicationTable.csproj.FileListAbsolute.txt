@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\38 Multiplication table\38MultiplicationTable\38MultiplicationTable\bin\Debug\38MultiplicationTable.exe.config
+C:\Users\diem\source\repos\Programmr\38 Multiplication table\38MultiplicationTable\38MultiplicationTable\bin\Debug\38MultiplicationTable.exe
+C:\Users\diem\source\repos\Programmr\38 Multiplication table\38MultiplicationTable\38MultiplicationTable\bin\Debug\38MultiplicationTable.pdb
+C:\Users\diem\source\repos\Programmr\38 Multiplication table\38MultiplicationTable\38MultiplicationTable\obj\Debug\38MultiplicationTable.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\38 Multiplication table\38MultiplicationTable\38MultiplicationTable\obj\Debug\_38MultiplicationTable.Form1.resources
+C:\Users\diem\source\repos\Programmr\38 Multiplication table\38MultiplicationTable\38MultiplicationTable\obj\Debug\_38MultiplicationTable.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\38 Multiplication table\38MultiplicationTable\38MultiplicationTable\obj\Debug\38MultiplicationTable.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\38 Multiplication table\38MultiplicationTable\38MultiplicationTable\obj\Debug\38MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\38 Multiplication table\38MultiplicationTable\38MultiplicationTable\obj\Debug\38MultiplicationTable.exe
+C:\Users\diem\source\repos\Programmr\38 Multiplication table\38MultiplicationTable\38MultiplicationTable\obj\Debug\38MultiplicationTable.pdb
