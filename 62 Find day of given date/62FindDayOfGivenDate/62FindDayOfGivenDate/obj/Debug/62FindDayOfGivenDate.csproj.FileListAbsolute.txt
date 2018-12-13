@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\62 Find day of given date\62FindDayOfGivenDate\62FindDayOfGivenDate\bin\Debug\62FindDayOfGivenDate.exe.config
+C:\Users\diem\source\repos\Programmr\62 Find day of given date\62FindDayOfGivenDate\62FindDayOfGivenDate\bin\Debug\62FindDayOfGivenDate.exe
+C:\Users\diem\source\repos\Programmr\62 Find day of given date\62FindDayOfGivenDate\62FindDayOfGivenDate\bin\Debug\62FindDayOfGivenDate.pdb
+C:\Users\diem\source\repos\Programmr\62 Find day of given date\62FindDayOfGivenDate\62FindDayOfGivenDate\obj\Debug\62FindDayOfGivenDate.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\62 Find day of given date\62FindDayOfGivenDate\62FindDayOfGivenDate\obj\Debug\_62FindDayOfGivenDate.Form1.resources
+C:\Users\diem\source\repos\Programmr\62 Find day of given date\62FindDayOfGivenDate\62FindDayOfGivenDate\obj\Debug\_62FindDayOfGivenDate.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\62 Find day of given date\62FindDayOfGivenDate\62FindDayOfGivenDate\obj\Debug\62FindDayOfGivenDate.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\62 Find day of given date\62FindDayOfGivenDate\62FindDayOfGivenDate\obj\Debug\62FindDayOfGivenDate.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\62 Find day of given date\62FindDayOfGivenDate\62FindDayOfGivenDate\obj\Debug\62FindDayOfGivenDate.exe
+C:\Users\diem\source\repos\Programmr\62 Find day of given date\62FindDayOfGivenDate\62FindDayOfGivenDate\obj\Debug\62FindDayOfGivenDate.pdb
