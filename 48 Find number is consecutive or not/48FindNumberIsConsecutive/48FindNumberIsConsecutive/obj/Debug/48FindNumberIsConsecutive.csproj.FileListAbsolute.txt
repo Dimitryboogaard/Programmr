@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\48 Find number is consecutive or not\48FindNumberIsConsecutive\48FindNumberIsConsecutive\bin\Debug\48FindNumberIsConsecutive.exe.config
+C:\Users\diem\source\repos\Programmr\48 Find number is consecutive or not\48FindNumberIsConsecutive\48FindNumberIsConsecutive\bin\Debug\48FindNumberIsConsecutive.exe
+C:\Users\diem\source\repos\Programmr\48 Find number is consecutive or not\48FindNumberIsConsecutive\48FindNumberIsConsecutive\bin\Debug\48FindNumberIsConsecutive.pdb
+C:\Users\diem\source\repos\Programmr\48 Find number is consecutive or not\48FindNumberIsConsecutive\48FindNumberIsConsecutive\obj\Debug\48FindNumberIsConsecutive.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\48 Find number is consecutive or not\48FindNumberIsConsecutive\48FindNumberIsConsecutive\obj\Debug\_48FindNumberIsConsecutive.Form1.resources
+C:\Users\diem\source\repos\Programmr\48 Find number is consecutive or not\48FindNumberIsConsecutive\48FindNumberIsConsecutive\obj\Debug\_48FindNumberIsConsecutive.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\48 Find number is consecutive or not\48FindNumberIsConsecutive\48FindNumberIsConsecutive\obj\Debug\48FindNumberIsConsecutive.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\48 Find number is consecutive or not\48FindNumberIsConsecutive\48FindNumberIsConsecutive\obj\Debug\48FindNumberIsConsecutive.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\48 Find number is consecutive or not\48FindNumberIsConsecutive\48FindNumberIsConsecutive\obj\Debug\48FindNumberIsConsecutive.exe
+C:\Users\diem\source\repos\Programmr\48 Find number is consecutive or not\48FindNumberIsConsecutive\48FindNumberIsConsecutive\obj\Debug\48FindNumberIsConsecutive.pdb
