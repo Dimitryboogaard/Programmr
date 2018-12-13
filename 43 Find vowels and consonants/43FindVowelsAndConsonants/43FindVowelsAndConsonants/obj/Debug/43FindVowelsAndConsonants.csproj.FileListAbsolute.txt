@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\43 Find vowels and consonants\43FindVowelsAndConsonants\43FindVowelsAndConsonants\bin\Debug\43FindVowelsAndConsonants.exe.config
+C:\Users\diem\source\repos\Programmr\43 Find vowels and consonants\43FindVowelsAndConsonants\43FindVowelsAndConsonants\bin\Debug\43FindVowelsAndConsonants.exe
+C:\Users\diem\source\repos\Programmr\43 Find vowels and consonants\43FindVowelsAndConsonants\43FindVowelsAndConsonants\bin\Debug\43FindVowelsAndConsonants.pdb
+C:\Users\diem\source\repos\Programmr\43 Find vowels and consonants\43FindVowelsAndConsonants\43FindVowelsAndConsonants\obj\Debug\43FindVowelsAndConsonants.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\43 Find vowels and consonants\43FindVowelsAndConsonants\43FindVowelsAndConsonants\obj\Debug\_43FindVowelsAndConsonants.Form1.resources
+C:\Users\diem\source\repos\Programmr\43 Find vowels and consonants\43FindVowelsAndConsonants\43FindVowelsAndConsonants\obj\Debug\_43FindVowelsAndConsonants.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\43 Find vowels and consonants\43FindVowelsAndConsonants\43FindVowelsAndConsonants\obj\Debug\43FindVowelsAndConsonants.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\43 Find vowels and consonants\43FindVowelsAndConsonants\43FindVowelsAndConsonants\obj\Debug\43FindVowelsAndConsonants.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\43 Find vowels and consonants\43FindVowelsAndConsonants\43FindVowelsAndConsonants\obj\Debug\43FindVowelsAndConsonants.exe
+C:\Users\diem\source\repos\Programmr\43 Find vowels and consonants\43FindVowelsAndConsonants\43FindVowelsAndConsonants\obj\Debug\43FindVowelsAndConsonants.pdb
