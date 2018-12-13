@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\32 Trimspace\32Trimspace\32Trimspace\bin\Debug\32Trimspace.exe.config
+C:\Users\diem\source\repos\Programmr\32 Trimspace\32Trimspace\32Trimspace\bin\Debug\32Trimspace.exe
+C:\Users\diem\source\repos\Programmr\32 Trimspace\32Trimspace\32Trimspace\bin\Debug\32Trimspace.pdb
+C:\Users\diem\source\repos\Programmr\32 Trimspace\32Trimspace\32Trimspace\obj\Debug\32Trimspace.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\32 Trimspace\32Trimspace\32Trimspace\obj\Debug\_32Trimspace.Form1.resources
+C:\Users\diem\source\repos\Programmr\32 Trimspace\32Trimspace\32Trimspace\obj\Debug\_32Trimspace.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\32 Trimspace\32Trimspace\32Trimspace\obj\Debug\32Trimspace.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\32 Trimspace\32Trimspace\32Trimspace\obj\Debug\32Trimspace.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\32 Trimspace\32Trimspace\32Trimspace\obj\Debug\32Trimspace.exe
+C:\Users\diem\source\repos\Programmr\32 Trimspace\32Trimspace\32Trimspace\obj\Debug\32Trimspace.pdb
