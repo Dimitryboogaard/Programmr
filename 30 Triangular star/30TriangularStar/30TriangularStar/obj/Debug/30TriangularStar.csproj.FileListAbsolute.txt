@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\30 Triangular star\30TriangularStar\30TriangularStar\bin\Debug\30TriangularStar.exe.config
+C:\Users\diem\source\repos\Programmr\30 Triangular star\30TriangularStar\30TriangularStar\bin\Debug\30TriangularStar.exe
+C:\Users\diem\source\repos\Programmr\30 Triangular star\30TriangularStar\30TriangularStar\bin\Debug\30TriangularStar.pdb
+C:\Users\diem\source\repos\Programmr\30 Triangular star\30TriangularStar\30TriangularStar\obj\Debug\30TriangularStar.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\30 Triangular star\30TriangularStar\30TriangularStar\obj\Debug\_30TriangularStar.Form1.resources
+C:\Users\diem\source\repos\Programmr\30 Triangular star\30TriangularStar\30TriangularStar\obj\Debug\_30TriangularStar.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\30 Triangular star\30TriangularStar\30TriangularStar\obj\Debug\30TriangularStar.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\30 Triangular star\30TriangularStar\30TriangularStar\obj\Debug\30TriangularStar.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\30 Triangular star\30TriangularStar\30TriangularStar\obj\Debug\30TriangularStar.exe
+C:\Users\diem\source\repos\Programmr\30 Triangular star\30TriangularStar\30TriangularStar\obj\Debug\30TriangularStar.pdb
