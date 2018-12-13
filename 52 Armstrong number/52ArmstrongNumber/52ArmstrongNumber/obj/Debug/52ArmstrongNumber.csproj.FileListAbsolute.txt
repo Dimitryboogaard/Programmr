@@ -1,0 +1,9 @@
+C:\Users\diem\source\repos\Programmr\52 Armstrong number\52ArmstrongNumber\52ArmstrongNumber\bin\Debug\52ArmstrongNumber.exe.config
+C:\Users\diem\source\repos\Programmr\52 Armstrong number\52ArmstrongNumber\52ArmstrongNumber\bin\Debug\52ArmstrongNumber.exe
+C:\Users\diem\source\repos\Programmr\52 Armstrong number\52ArmstrongNumber\52ArmstrongNumber\bin\Debug\52ArmstrongNumber.pdb
+C:\Users\diem\source\repos\Programmr\52 Armstrong number\52ArmstrongNumber\52ArmstrongNumber\obj\Debug\_52ArmstrongNumber.Form1.resources
+C:\Users\diem\source\repos\Programmr\52 Armstrong number\52ArmstrongNumber\52ArmstrongNumber\obj\Debug\_52ArmstrongNumber.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\52 Armstrong number\52ArmstrongNumber\52ArmstrongNumber\obj\Debug\52ArmstrongNumber.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\52 Armstrong number\52ArmstrongNumber\52ArmstrongNumber\obj\Debug\52ArmstrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\52 Armstrong number\52ArmstrongNumber\52ArmstrongNumber\obj\Debug\52ArmstrongNumber.exe
+C:\Users\diem\source\repos\Programmr\52 Armstrong number\52ArmstrongNumber\52ArmstrongNumber\obj\Debug\52ArmstrongNumber.pdb
