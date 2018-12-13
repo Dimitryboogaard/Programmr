@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\36 Ulam sequence\36UlamSequence\36UlamSequence\bin\Debug\36UlamSequence.exe.config
+C:\Users\diem\source\repos\Programmr\36 Ulam sequence\36UlamSequence\36UlamSequence\bin\Debug\36UlamSequence.exe
+C:\Users\diem\source\repos\Programmr\36 Ulam sequence\36UlamSequence\36UlamSequence\bin\Debug\36UlamSequence.pdb
+C:\Users\diem\source\repos\Programmr\36 Ulam sequence\36UlamSequence\36UlamSequence\obj\Debug\36UlamSequence.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\36 Ulam sequence\36UlamSequence\36UlamSequence\obj\Debug\_36UlamSequence.Form1.resources
+C:\Users\diem\source\repos\Programmr\36 Ulam sequence\36UlamSequence\36UlamSequence\obj\Debug\_36UlamSequence.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\36 Ulam sequence\36UlamSequence\36UlamSequence\obj\Debug\36UlamSequence.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\36 Ulam sequence\36UlamSequence\36UlamSequence\obj\Debug\36UlamSequence.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\36 Ulam sequence\36UlamSequence\36UlamSequence\obj\Debug\36UlamSequence.exe
+C:\Users\diem\source\repos\Programmr\36 Ulam sequence\36UlamSequence\36UlamSequence\obj\Debug\36UlamSequence.pdb
