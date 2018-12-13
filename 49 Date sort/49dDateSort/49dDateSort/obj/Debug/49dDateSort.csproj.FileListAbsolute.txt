@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Programmr\49 Date sort\49dDateSort\49dDateSort\bin\Debug\49dDateSort.exe.config
+C:\Users\diem\source\repos\Programmr\49 Date sort\49dDateSort\49dDateSort\bin\Debug\49dDateSort.exe
+C:\Users\diem\source\repos\Programmr\49 Date sort\49dDateSort\49dDateSort\bin\Debug\49dDateSort.pdb
+C:\Users\diem\source\repos\Programmr\49 Date sort\49dDateSort\49dDateSort\obj\Debug\49dDateSort.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Programmr\49 Date sort\49dDateSort\49dDateSort\obj\Debug\_49dDateSort.Form1.resources
+C:\Users\diem\source\repos\Programmr\49 Date sort\49dDateSort\49dDateSort\obj\Debug\_49dDateSort.Properties.Resources.resources
+C:\Users\diem\source\repos\Programmr\49 Date sort\49dDateSort\49dDateSort\obj\Debug\49dDateSort.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Programmr\49 Date sort\49dDateSort\49dDateSort\obj\Debug\49dDateSort.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Programmr\49 Date sort\49dDateSort\49dDateSort\obj\Debug\49dDateSort.exe
+C:\Users\diem\source\repos\Programmr\49 Date sort\49dDateSort\49dDateSort\obj\Debug\49dDateSort.pdb
